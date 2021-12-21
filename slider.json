@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1801,
+    "subtitle": "Специальные блюда",
+    "title": "Спагетти",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?",
+    "imageSrc": "https://i.im.ge/2021/09/25/Tbpcpz.png"
+  },
+  {
+    "id": 1802,
+    "subtitle": "Специальные блюда",
+    "title": "Жаренная Курица",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?",
+    "imageSrc": "https://i.im.ge/2021/09/25/Tbp826.png"
+  },
+  {
+    "id": 1803,
+    "subtitle": "Специальные блюда",
+    "title": "Пицца",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?",
+    "imageSrc": "https://i.im.ge/2021/09/25/TbpWKK.png"
+  }
+]

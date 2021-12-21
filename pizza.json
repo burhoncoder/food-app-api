@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1201,
+        "name": "pizza supreme",
+        "type": "pizza",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 42000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_super_supreme.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1202,
+        "name": "pizza steak",
+        "type": "pizza",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 49000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257377/menu/Pizza/pizza_steak.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1203,
+        "name": "pizza pepperoni",
+        "type": "pizza",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 32000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_pepperoni.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1204,
+        "name": "pizza bbq chicken",
+        "type": "pizza",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 34000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257379/menu/Pizza/pizza_bbq.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1205,
+        "name": "pizza spicy",
+        "type": "pizza",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 37000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_spicy.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1206,
+        "name": "pizza vegetarian",
+        "type": "pizza",
+        "rate": 4.6,
+        "quantitiy": 1,
+        "price": 33000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_vegetarian.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1207,
+        "name": "pizza cheese",
+        "type": "pizza",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 26000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_white_cheese.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1208,
+        "name": "pizza hawaiian",
+        "type": "pizza",
+        "rate": 3.9,
+        "quantitiy": 1,
+        "price": 31000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_hawaiian.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1209,
+        "name": "pizza margaritta",
+        "type": "pizza",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 28000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257377/menu/Pizza/pizza_margarita.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1210,
+        "name": "pizza franfurt",
+        "type": "pizza",
+        "rate": 3.6,
+        "quantitiy": 1,
+        "price": 35000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_frankfurt.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1211,
+        "name": "pizza chicken",
+        "type": "pizza",
+        "rate": 3.5,
+        "quantitiy": 1,
+        "price": 31000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_super_supreme.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1212,
+        "name": "pizza hunter",
+        "type": "pizza",
+        "rate": 3.2,
+        "quantitiy": 1,
+        "price": 26000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257377/menu/Pizza/pizza_steak.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1213,
+        "name": "cesar",
+        "type": "pizza",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 45000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_pepperoni.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1214,
+        "name": "mexican pizza",
+        "type": "pizza",
+        "rate": 5,
+        "quantitiy": 1,
+        "price": 50000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257379/menu/Pizza/pizza_bbq.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1215,
+        "name": "pizza spicy",
+        "type": "pizza",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 37000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_spicy.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1216,
+        "name": "mushroom pizza",
+        "type": "pizza",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 31000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_vegetarian.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1217,
+        "name": "dodo pizza",
+        "type": "pizza",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 35000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_white_cheese.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1218,
+        "name": "meat pizza",
+        "type": "pizza",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 46000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_hawaiian.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1219,
+        "name": "double pepperoni",
+        "type": "pizza",
+        "rate": 4.9,
+        "quantitiy": 1,
+        "price": 41000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257377/menu/Pizza/pizza_margarita.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1220,
+        "name": "double cheese",
+        "type": "pizza",
+        "rate": 4.3,
+        "quantitiy": 1,
+        "price": 34000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_frankfurt.jpg",
+        "newFood": false
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1501,
+        "name": "fries",
+        "type": "combo",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446504/menu/appetizer/photo_2020-12-20_11-41-35.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1502,
+        "name": "wings",
+        "type": "combo",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/Appetizer/appetizer_hot_wings.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1503,
+        "name": "strips",
+        "type": "combo",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/appetizer/appetizer_strips.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1504,
+        "name": "bites",
+        "type": "combo",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 11000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/appetizer/appetizer_bites.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1505,
+        "name": "mushrooms 6 pcs",
+        "type": "combo",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/Appetizer/appetizer_mushroooms.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1506,
+        "name": "1 wings",
+        "type": "combo",
+        "rate": 4.6,
+        "quantitiy": 1,
+        "price": 5000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1586239025/menu/appetizer/appetizers_wing.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1507,
+        "name": "1 strips",
+        "type": "combo",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 5000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1586239030/menu/appetizer/appetizers_strip.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1508,
+        "name": "cheese nuggets",
+        "type": "combo",
+        "rate": 3.9,
+        "quantitiy": 1,
+        "price": 12000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/Appetizer/appetizer_cheese_nuggets.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1509,
+        "name": "combo",
+        "type": "combo",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 12000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446678/menu/appetizer/COMBO.png",
+        "newFood": true
+    },
+    {
+        "id": 1510,
+        "name": "wicked combo (strips)",
+        "type": "combo",
+        "rate": 3.6,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446780/menu/appetizer/stripswick.png",
+        "newFood": false
+    },
+    {
+        "id": 1511,
+        "name": "wicked combo (wings)",
+        "type": "combo",
+        "rate": 3.5,
+        "quantitiy": 1,
+        "price": 19000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446868/menu/appetizer/wingswick.png",
+        "newFood": false
+    },
+    {
+        "id": 1512,
+        "name": "fully combo (normal)",
+        "type": "combo",
+        "rate": 3.2,
+        "quantitiy": 1,
+        "price": 19000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608447025/menu/appetizer/normalfully.png",
+        "newFood": false
+    },
+    {
+        "id": 1513,
+        "name": "fully combo spicy",
+        "type": "combo",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 19000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446951/menu/appetizer/spicyfully.png",
+        "newFood": true
+    },
+    {
+        "id": 1514,
+        "name": "rustic fries",
+        "type": "combo",
+        "rate": 5,
+        "quantitiy": 1,
+        "price": 11000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446442/menu/appetizer/RUSTIC.png",
+        "newFood": false
+    },
+    {
+        "id": 1515,
+        "name": "cheese fries",
+        "type": "combo",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 12000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608447098/menu/appetizer/CHEESE_FRIES.png",
+        "newFood": true
+    },
+    {
+        "id": 1516,
+        "name": "meat fries",
+        "type": "combo",
+        "rate": 3.6,
+        "quantitiy": 1,
+        "price": 15000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608446504/menu/appetizer/photo_2020-12-20_11-41-35.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1517,
+        "name": "cheese wings",
+        "type": "combo",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 20000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/Appetizer/appetizer_hot_wings.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1518,
+        "name": "cheese strips",
+        "type": "combo",
+        "rate": 4.4,
+        "quantitiy": 1,
+        "price": 22000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/appetizer/appetizer_strips.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1519,
+        "name": "cheese bites",
+        "type": "combo",
+        "rate": 4.9,
+        "quantitiy": 1,
+        "price": 14000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/appetizer/appetizer_bites.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1520,
+        "name": "mushrooms 10 pcs",
+        "type": "combo",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 15000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/Appetizer/appetizer_mushroooms.jpg",
+        "newFood": false
+    }
+]

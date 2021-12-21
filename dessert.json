@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1601,
+        "name": "milkshake banan",
+        "type": "dessert",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 16000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621668/menu/desserts/desserts_shake_banana.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1602,
+        "name": "milkshake kitkat",
+        "type": "dessert",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 14000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621668/menu/desserts/desserts_shake_kit_kat.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1603,
+        "name": "milkshake twix",
+        "type": "dessert",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 14000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621668/menu/desserts/desserts_shake_twix.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1604,
+        "name": "milkshake apple",
+        "type": "dessert",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 14000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621668/menu/desserts/desserts_shake_apple.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1605,
+        "name": "milkshake strawberry",
+        "type": "dessert",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 14000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621667/menu/desserts/desserts_shake_strawberry.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1606,
+        "name": "milkshake raffaello",
+        "type": "dessert",
+        "rate": 4.6,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621668/menu/desserts/desserts_shake_raffaello.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1607,
+        "name": "lemon cace",
+        "type": "dessert",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 10000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577958579/menu/desserts/desserts_lemon_curd.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1608,
+        "name": "chocolate souffle",
+        "type": "dessert",
+        "rate": 3.9,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1578550369/menu/desserts/desserts_souffle.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1609,
+        "name": "chocotastic",
+        "type": "dessert",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 13000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619081/menu/desserts/desserts_chocotastic.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1610,
+        "name": "red wave",
+        "type": "dessert",
+        "rate": 3.6,
+        "quantitiy": 1,
+        "price": 13000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619082/menu/desserts/desserts_red_wave.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1611,
+        "name": "kiwix",
+        "type": "dessert",
+        "rate": 3.5,
+        "quantitiy": 1,
+        "price": 13000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619081/menu/desserts/desserts_kiwix.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1612,
+        "name": "safer",
+        "type": "dessert",
+        "rate": 3.2,
+        "quantitiy": 1,
+        "price": 10000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619081/menu/desserts/desserts_safer.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1613,
+        "name": "tello cake",
+        "type": "dessert",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 15000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1620146846/menu/desserts/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2021-05-04_%D0%B2_21.44.39.png",
+        "newFood": false
+    },
+    {
+        "id": 1614,
+        "name": "sugar chip 1pcs",
+        "type": "dessert",
+        "rate": 5,
+        "quantitiy": 1,
+        "price": 2000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1620820625/menu/desserts/0533_plaincookie_WhitesBakery_0673_1024x.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1615,
+        "name": "milkshake pineapple",
+        "type": "dessert",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 14000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621667/menu/desserts/desserts_shake_strawberry.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1616,
+        "name": "milkshake peach",
+        "type": "dessert",
+        "rate": 4.6,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585621668/menu/desserts/desserts_shake_raffaello.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1617,
+        "name": "orange cace",
+        "type": "dessert",
+        "rate": 4.9,
+        "quantitiy": 1,
+        "price": 15000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577958579/menu/desserts/desserts_lemon_curd.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1618,
+        "name": "souffle",
+        "type": "dessert",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 10000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1578550369/menu/desserts/desserts_souffle.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1619,
+        "name": "chocotastic",
+        "type": "dessert",
+        "rate": 4.4,
+        "quantitiy": 1,
+        "price": 11000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619081/menu/desserts/desserts_chocotastic.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1620,
+        "name": "red cake",
+        "type": "dessert",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 12000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619082/menu/desserts/desserts_red_wave.jpg",
+        "newFood": true
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1101,
+        "name": "bigger",
+        "type": "burger",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 19000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_bigger.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1102,
+        "name": "Loook",
+        "type": "burger",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 16000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_loook.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1103,
+        "name": "classic",
+        "type": "burger",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 15000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_classic.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1104,
+        "name": "cheeseburger",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 27000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_cheese.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1105,
+        "name": "chili longer",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 23000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_chili_longer.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1106,
+        "name": "chicken longer",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 16000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_chicken_longer.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1107,
+        "name": "hamburger",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 25000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1108,
+        "name": "doublecheese burger",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 39000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_doublecheese.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1109,
+        "name": "beef longer",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 23000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_chili_longer.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1110,
+        "name": "crispy burger",
+        "type": "burger",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 19000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608367396/menu/burger/crispybur.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1111,
+        "name": "boss burger",
+        "type": "burger",
+        "rate": 4.6,
+        "quantitiy": 1,
+        "price": 39000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608367396/menu/burger/bossbur.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1112,
+        "name": "chicky burger",
+        "type": "burger",
+        "rate": 3,
+        "quantitiy": 1,
+        "price": 12000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1608367396/menu/burger/bossbur.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1113,
+        "name": "double burger",
+        "type": "burger",
+        "rate": 3.8,
+        "quantitiy": 1,
+        "price": 30000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1114,
+        "name": "street burger",
+        "type": "burger",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 27000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1115,
+        "name": "street cheese",
+        "type": "burger",
+        "rate": 5,
+        "quantitiy": 1,
+        "price": 28000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1116,
+        "name": "onion burger",
+        "type": "burger",
+        "rate": 3.9,
+        "quantitiy": 1,
+        "price": 30000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1117,
+        "name": "texas burger",
+        "type": "burger",
+        "rate": 4.3,
+        "quantitiy": 1,
+        "price": 20000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1118,
+        "name": "chicken cheeseburger",
+        "type": "burger",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1119,
+        "name": "steack burger",
+        "type": "burger",
+        "rate": 4.4,
+        "quantitiy": 1,
+        "price": 21000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1120,
+        "name": "burger",
+        "type": "burger",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 16000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_hamburger.jpg",
+        "newFood": false
+    }
+]

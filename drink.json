@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1401,
+        "name": "mineralka 0.5l bezgaz",
+        "type": "drink",
+        "rate": 3.5,
+        "quantitiy": 1,
+        "price": 3000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257260/menu/Drinks/drink_water_0_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1402,
+        "name": "mineralka 1l bezgaz",
+        "type": "drink",
+        "rate": 3.2,
+        "quantitiy": 1,
+        "price": 4000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257137/menu/Drinks/drink_water_1.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1403,
+        "name": "mineralka 1.5l bezgaz",
+        "type": "drink",
+        "rate": 3.0,
+        "quantitiy": 1,
+        "price": 5000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257260/menu/Drinks/drink_water_1_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1404,
+        "name": "mineralka 0.5l gaz",
+        "type": "drink",
+        "rate": 3.3,
+        "quantitiy": 1,
+        "price": 3000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257260/menu/Drinks/drink_water_gas_0_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1405,
+        "name": "mineralka 1l gaz",
+        "type": "drink",
+        "rate": 3.1,
+        "quantitiy": 1,
+        "price": 4000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257137/menu/Drinks/drink_water_gas_1.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1406,
+        "name": "mineralka 1.5l gaz",
+        "type": "drink",
+        "rate": 3.1,
+        "quantitiy": 1,
+        "price": 5000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257260/menu/Drinks/drink_water_gas_1_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1407,
+        "name": "coca cola 400ml",
+        "type": "drink",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 5000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257138/menu/Drinks/drink_cola_cup.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1408,
+        "name": "coca cola 1.5l",
+        "type": "drink",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 12000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257137/menu/Drinks/drink_cola_1_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1409,
+        "name": "coca cola 1L",
+        "type": "drink",
+        "rate": 4.4,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257137/menu/Drinks/drink_cola_1.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1410,
+        "name": "coca cola 0.5l",
+        "type": "drink",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 6000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257137/menu/Drinks/drink_cola_0_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1411,
+        "name": "fanta 400ml",
+        "type": "drink",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 5000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257261/menu/Drinks/drink_fanta_cup.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1412,
+        "name": "fanta 1.5l",
+        "type": "drink",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 11000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257261/menu/Drinks/drink_fanta_1_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1413,
+        "name": "fanta 1l",
+        "type": "drink",
+        "rate": 4.3,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257136/menu/Drinks/drink_fanta_1.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1414,
+        "name": "fanta 0.5l",
+        "type": "drink",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 6000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257261/menu/Drinks/drink_fanta_0_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1415,
+        "name": "sprite 0.5l",
+        "type": "drink",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 6000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257136/menu/Drinks/drink_sprite_0_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1416,
+        "name": "sprite 1.5l",
+        "type": "drink",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 11000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257136/menu/Drinks/drink_sprite_1_5.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1417,
+        "name": "sprite 400ml",
+        "type": "drink",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 500,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257136/menu/Drinks/drink_sprite_cup.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1418,
+        "name": "sprite 1l",
+        "type": "drink",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257260/menu/Drinks/drink_sprite_1.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1419,
+        "name": "ice tea",
+        "type": "drink",
+        "rate": 4.9,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257136/menu/Drinks/drink_ice_tea.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1430,
+        "name": "sok 1l",
+        "type": "drink",
+        "rate": 3.9,
+        "quantitiy": 1,
+        "price": 10000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1616052821/menu/drinks/tip_top_orik.jpg",
+        "newFood": false
+    }
+]

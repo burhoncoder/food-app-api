@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1701,
+    "name": "Владилен Минин",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis at nostrum atque necessitatibus quae voluptate, fugiat, vero vitae porro qui architecto in.",
+    "avatarSrc": "https://i.ytimg.com/vi/y37l4dCysjw/maxresdefault.jpg",
+    "mark": 85
+  },
+  {
+    "id": 1702,
+    "name": "FreecodeCamp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis at nostrum atque necessitatibus quae voluptate, fugiat, vero vitae porro qui architecto in.",
+    "avatarSrc": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0",
+    "mark": 90
+  },
+  {
+    "id": 1703,
+    "name": "Traversy Meida",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis at nostrum atque necessitatibus quae voluptate, fugiat, vero vitae porro qui architecto in.",
+    "avatarSrc": "https://yt3.ggpht.com/ytc/AKedOLSxHOOxxa9Af8Bfb2XMop3lm4tor9bViWiC-d5aaw=s900-c-k-c0x00ffffff-no-rj",
+    "mark": 95
+  },
+  {
+    "id": 1704,
+    "name": "Simplilearn",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis at nostrum atque necessitatibus quae voluptate, fugiat, vero vitae porro qui architecto in.",
+    "avatarSrc": "https://media-exp1.licdn.com/dms/image/C510BAQEvNU0EYy6wUw/company-logo_200_200/0/1519868894445?e=2159024400&v=beta&t=6o56XjIsb6Vl8oHD-HgBwpxFe7TdswY9HNkx_kwfCx8",
+    "mark": 100
+  },
+  {
+    "id": 1705,
+    "name": "Udacity",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis at nostrum atque necessitatibus quae voluptate, fugiat, vero vitae porro qui architecto in.",
+    "avatarSrc": "https://img.etimg.com/thumb/width-640,height-480,imgsize-19833,resizemode-1,msid-64581119/small-biz/startups/newsbuzz/udacity-looks-to-double-down-on-enterprise-game/udacity.jpg",
+    "mark": 88
+  }
+]

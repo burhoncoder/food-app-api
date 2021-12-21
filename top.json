@@ -1,0 +1,64 @@
+[
+      {
+        "id": 2001,
+        "name": "bigger",
+        "type": "burger",
+        "rate": 4.8,
+        "quantitiy": 1,
+        "price": 19000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256746/menu/burger/burger_bigger.jpg",
+        "newFood": true
+    },
+      {
+        "id": 2002,
+        "name": "dinner meal spicy",
+        "type": "chicken",
+        "rate": 4.9,
+        "quantitiy": 1,
+        "price": 32000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_dinner_meal.jpg",
+        "newFood": true
+    },
+      {
+        "id": 2003,
+        "name": "strips",
+        "type": "combo",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 18000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256586/menu/appetizer/appetizer_strips.jpg",
+        "newFood": true
+    },
+      {
+        "id": 2004,
+        "name": "pizza spicy",
+        "type": "pizza",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 37000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257378/menu/Pizza/pizza_spicy.jpg",
+        "newFood": false
+    },
+      {
+        "id": 2005,
+        "name": "coca cola 0.5l",
+        "type": "drink",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 6000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577257137/menu/Drinks/drink_cola_0_5.jpg",
+        "newFood": false
+    },
+      {
+        "id": 2006,
+        "name": "kiwix",
+        "type": "dessert",
+        "rate": 3.5,
+        "quantitiy": 1,
+        "price": 13000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1585619081/menu/desserts/desserts_kiwix.jpg",
+        "newFood": true
+    }
+  
+
+]

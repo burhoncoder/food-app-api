@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1301,
+        "name": "dinner meal normal",
+        "type": "chicken",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 32000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_dinner_meal.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1302,
+        "name": "dinner meal spicy",
+        "type": "chicken",
+        "rate": 4.9,
+        "quantitiy": 1,
+        "price": 32000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_dinner_meal.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1303,
+        "name": "snack meal spicy",
+        "type": "chicken",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 24000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_snack_meal.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1304,
+        "name": "snack meal normal",
+        "type": "chicken",
+        "rate": 3.6,
+        "quantitiy": 1,
+        "price": 24000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_snack_meal.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1305,
+        "name": "21 pieces chicken spicy",
+        "type": "chicken",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 222000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256825/menu/Chickens/chicken_bucket_21.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1306,
+        "name": "21 pieces chicken spicy",
+        "type": "chicken",
+        "rate": 4.5,
+        "quantitiy": 1,
+        "price": 222000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256825/menu/Chickens/chicken_bucket_21.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1307,
+        "name": "chicken 1 pcs spicy",
+        "type": "chicken",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_piece.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1308,
+        "name": "chicken 1 pcs normal",
+        "type": "chicken",
+        "rate": 4.6,
+        "quantitiy": 1,
+        "price": 9000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_piece.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1309,
+        "name": "15 pieces chicken spicy",
+        "type": "chicken",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 162000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256825/menu/Chickens/chicken_bucket_15.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1310,
+        "name": "15 pieces chicken normal",
+        "type": "chicken",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 162000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256825/menu/Chickens/chicken_bucket_15.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1311,
+        "name": "32 piece+32 wing",
+        "type": "chicken",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 336000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_togora.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1312,
+        "name": "24 piece+24 wing",
+        "type": "chicken",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 250000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_togora.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1313,
+        "name": "chicken 24",
+        "type": "chicken",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 40000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_dinner_meal.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1314,
+        "name": "chicken busket",
+        "type": "chicken",
+        "rate": 4.7,
+        "quantitiy": 1,
+        "price": 42000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_dinner_meal.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1315,
+        "name": "chicken busket 20",
+        "type": "chicken",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 68000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_snack_meal.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1316,
+        "name": "snack meal normal",
+        "type": "chicken",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 32000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_snack_meal.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1317,
+        "name": "10 pieces chicken spicy",
+        "type": "chicken",
+        "rate": 3.9,
+        "quantitiy": 1,
+        "price": 111000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256825/menu/Chickens/chicken_bucket_21.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1318,
+        "name": "10 pieces chicken spicy",
+        "type": "chicken",
+        "rate": 4.0,
+        "quantitiy": 1,
+        "price": 111000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256825/menu/Chickens/chicken_bucket_21.jpg",
+        "newFood": false
+    },
+    {
+        "id": 1319,
+        "name": "chicken 10 pcs spicy",
+        "type": "chicken",
+        "rate": 4.1,
+        "quantitiy": 1,
+        "price": 80000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_piece.jpg",
+        "newFood": true
+    },
+    {
+        "id": 1330,
+        "name": "chicken 10 pcs normal",
+        "type": "chicken",
+        "rate": 4.2,
+        "quantitiy": 1,
+        "price": 80000,
+        "imageSrc": "https://res.cloudinary.com/dthnjpsnk/image/upload/v1577256824/menu/Chickens/chicken_piece.jpg",
+        "newFood": false
+    }
+]
